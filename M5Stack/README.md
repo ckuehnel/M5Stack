@@ -1,1 +1,1 @@
-In diesem Verzeichnis befinden sich ausschliesslich M5Stack Programmbeispiele
+This directory contains only M5Stack program examples
