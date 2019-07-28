@@ -1,1 +1,1 @@
-In diesem Verzeichnis befinden sich ausschliesslich M5StickC Programmbeispiele
+This directory contains only M5StickC program examples
